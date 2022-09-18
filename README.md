@@ -7,7 +7,14 @@ Kaggleを取り組むと一念発起したので、取り組んだ記録を「Ka
 習得した分析方法やコード、取得方法や日記を書いていきます。
 個人用ノートなのであしからず。
 
+## 称号
+Contributor
 
+## Competitions
+Titanic - Machine Learning from Disaster
+
+## タスク やること
+20220919 Titanicコンペのコードを整理する
 
 ## 利用しているツール
 ・VSCode  
