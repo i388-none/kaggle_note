@@ -9,21 +9,21 @@ Kaggleで取り組んだ記録を「KaggleNote」に残していきます。
 
 ## 称号
 ★Contributor
-
-Grandmaster  5金メダル　1ソロ金メダル
-Master 1金メダル　2銀メダル
-Expert 2銅メダル　←　次の目標
-
-銅メダル　←　上位40％
+  
+Grandmaster  5金メダル　1ソロ金メダル  
+Master 1金メダル　2銀メダル  
+Expert 2銅メダル　←　次の目標  
+     
+銅メダル　←　上位40％  
 
 ## Competitions
 Titanic - Machine Learning from Disaster
 
 ## タスク やること
-・Titanicコンペの手順の整理
-・スコアの高いNetbookに特徴の追加
-・LightGBMの使い方の調査
-
+・Titanicコンペの手順の整理  
+・スコアの高いNetbookに特徴の追加  
+・LightGBMの使い方の調査  
+  
 ## 利用しているツール
 ・VSCode  
 ・Jupyter Notebook  
