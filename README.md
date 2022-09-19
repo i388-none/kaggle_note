@@ -8,13 +8,21 @@ Kaggleで取り組んだ記録を「KaggleNote」に残していきます。
 個人用ノートなのであしからず。
 
 ## 称号
-Contributor
+★Contributor
+
+Grandmaster  5金メダル　1ソロ金メダル
+Master 1金メダル　2銀メダル
+Expert 2銅メダル　←　次の目標
+
+銅メダル　←　上位40％
 
 ## Competitions
 Titanic - Machine Learning from Disaster
 
 ## タスク やること
-20220919 Titanicコンペのコードを整理する
+・Titanicコンペの手順の整理
+・スコアの高いNetbookに特徴の追加
+・LightGBMの使い方の調査
 
 ## 利用しているツール
 ・VSCode  
@@ -22,11 +30,7 @@ Titanic - Machine Learning from Disaster
 ・Git  
 ・  
   
-  
-  
-  
 ## Kaggle関連で参考にしている書籍や動画など
-・統計検定2級  
-・python 関連書籍  
+・Kaggleのチュートリアル第6版
 
 今後更新
