@@ -23,7 +23,8 @@ Titanic - Machine Learning from Disaster
 ・Titanicコンペの手順の整理  
 ・スコアの高いNetbookに特徴の追加  
 ・LightGBMの使い方の調査  
-  
+・タイタニックの次のコンペを探す
+
 ## 利用しているツール
 ・VSCode  
 ・Jupyter Notebook  
